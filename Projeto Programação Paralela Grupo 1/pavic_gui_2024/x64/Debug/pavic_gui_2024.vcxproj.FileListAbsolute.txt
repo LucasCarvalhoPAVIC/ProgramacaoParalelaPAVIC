@@ -1,0 +1,6 @@
+C:\Users\adken\Downloads\proj_pavic\efilt\pavic_gui_2024\x64\Debug\pavic_gui_2024.vcxproj.AssemblyReference.cache
+C:\Users\adken\Downloads\proj_pavic\efilt\pavic_gui_2024\x64\Debug\pavicgui2024.Pavic_gui_2024_Form.resources
+C:\Users\adken\Downloads\proj_pavic\efilt\pavic_gui_2024\x64\Debug\pavic_gui_2024.vcxproj.GenerateResource.cache
+C:\Users\lucas\Documents\Modulo 02 - Programação Paralela\gui_2024\efilt\pavic_gui_2024\x64\Debug\pavic_gui_2024.vcxproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Modulo 02 - Programação Paralela\gui_2024\efilt\pavic_gui_2024\x64\Debug\pavicgui2024.Pavic_gui_2024_Form.resources
+C:\Users\lucas\Documents\Modulo 02 - Programação Paralela\gui_2024\efilt\pavic_gui_2024\x64\Debug\pavic_gui_2024.vcxproj.GenerateResource.cache

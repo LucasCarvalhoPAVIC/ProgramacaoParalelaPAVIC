@@ -1,0 +1,6 @@
+﻿  Pavic_gui_2024_Form.cpp
+C:\Users\lucas\Documents\Modulo 02 - Programação Paralela\gui_2024\efilt\pavic_gui_2024\Pavic_gui_2024_Form.h(434,13): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'Pavic_gui_2024_Form.cpp')
+  
+  Pavic_gui_2024_Form.obj : Módulo MSIL encontrado; vínculo incremental está desabilitado para MSIL; executando link completo
+  pavic_gui_2024.vcxproj -> C:\Users\lucas\Documents\Modulo 02 - Programação Paralela\gui_2024\efilt\x64\Debug\pavic_gui_2024.exe
